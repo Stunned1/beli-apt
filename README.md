@@ -29,8 +29,8 @@ SuiteSync is a collaborative apartment hunting platform that solves the nightmar
 ### 1. Clone and Install
 
 ```bash
-git clone <repository-url>
-cd beli-apt
+git clone https://github.com/Stunned1/SuiteSync.git
+cd SuiteSync
 npm install
 ```
 
@@ -110,7 +110,7 @@ Visit [http://localhost:3000](http://localhost:3000) to see the application.
 ## Project Structure
 
 ```
-beli-apt/
+SuiteSync/
 ├── src/
 │   ├── app/                    # Next.js App Router
 │   │   ├── api/               # API routes
@@ -244,8 +244,6 @@ python clustering.py
 - Ensure tables exist and are properly set up
 
 ### Getting Help
-
-- Check the [Issues](https://github.com/your-repo/issues) page
 - Review the [GEMINI_AI_AGENT_README.md](GEMINI_AI_AGENT_README.md) for AI-specific issues
 - Check Supabase logs in the dashboard
 
