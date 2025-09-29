@@ -1,4 +1,4 @@
-# [🏆 VT HACKS 13 WINNER [CoStar Group] 🏆](https://vthacks-13.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=90730)
+# [- VT HACKS 13 WINNER [CoStar Group] -](https://vthacks-13.devpost.com/submissions/search?utf8=%E2%9C%93&prize_filter%5Bprizes%5D%5B%5D=90730)
 
 # SuiteSync - Collaborative Apartment Hunting Platform
 
